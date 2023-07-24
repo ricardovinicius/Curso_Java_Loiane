@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="97027fac-6af3-42f8-94ac-532bc9e8bed0" name="Changes" comment="" />
+    <list default="true" id="97027fac-6af3-42f8-94ac-532bc9e8bed0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ricardo/cursojava/aula11/CuriosidadeInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ricardo/cursojava/aula11/Joke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ricardo/cursojava/aula11/SequenciaEscape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ricardo/cursojava/aula11/TiposPrimitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ricardo/cursojava/aula11/VariaveisBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ricardo/cursojava/aula11/VariaveisChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ricardo/cursojava/aula11/VariaveisInteiras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ricardo/cursojava/aula11/VariaveisPontoFlutuante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,7 +42,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/13772063438/Documents/GitHub/Curso_Java_Loiane",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "C:/Users/vinia/Curso_Java/src/Main.java",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -34,6 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1689995676380</updated>
       <workItem from="1689995677434" duration="9000" />
+      <workItem from="1690229035704" duration="4276000" />
     </task>
     <servers />
   </component>
