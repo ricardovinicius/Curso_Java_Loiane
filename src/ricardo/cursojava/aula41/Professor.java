@@ -1,4 +1,4 @@
-package ricardo.cursojava.aula39;
+package ricardo.cursojava.aula41;
 
 public class Professor extends Pessoa {
     private double salario;
@@ -19,5 +19,9 @@ public class Professor extends Pessoa {
     
     public double calcularSalarioLiquido() {
         return 0;
+    }
+    @Override
+    public void imprimirEtiquetaEndereco() {
+        System.out.println("Endereco do Professor: " + this.getEndereco());
     }
 }

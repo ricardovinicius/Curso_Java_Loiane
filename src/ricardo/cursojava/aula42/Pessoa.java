@@ -1,6 +1,6 @@
-package ricardo.cursojava.aula39;
+package ricardo.cursojava.aula42;
 
-public class Pessoa {
+public abstract class Pessoa {
     private String nome;
     private String endereco;
     private String telefone;
@@ -50,4 +50,6 @@ public class Pessoa {
     public void setTelefoneCelular(String telefoneCelular) {
         this.telefoneCelular = telefoneCelular;
     }
+
+    // public abstract void imprimirEtiquetaEndereco();
 }
