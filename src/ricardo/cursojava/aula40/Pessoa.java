@@ -13,7 +13,7 @@ public class Pessoa {
 
 	public Pessoa() {
 	}
-
+	
 	public Pessoa(String nome, String endereco, String telefone) {
 		super();
 		this.nome = nome;
@@ -58,7 +58,6 @@ public class Pessoa {
 		this.nomeVisibilidade = nomeVisibilidade;
 	}
 
-	@Override
 	public String obterEtiquetaEndereco() {
 		return endereco;
 	}
